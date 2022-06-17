@@ -4,4 +4,6 @@ para ver comofunciona el commitment
 
  seguimos moficiando el archivo para probar los commit
 
- voy a seguir haciendo modificaciones para probar hacer más commit
+voy a cambiar mas cosas a ver que pasa
+
+que pasa que no aparecen los commit en git hub???
