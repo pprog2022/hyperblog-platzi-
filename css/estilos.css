@@ -1,6 +1,6 @@
 body
 {
-    color: deeppink;
+    color: blue;
     text-align: center;
     font-family: "arial";
     font-size: 15px;
@@ -22,7 +22,7 @@ body
 
 #cabecera
 {
-    background: blue;
+    background: rgb(255, 0, 0);
     box-shadow: 0px 2px 30px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
